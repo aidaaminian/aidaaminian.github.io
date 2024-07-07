@@ -21,7 +21,7 @@ repository               : "aidaaminian/aidaaminian.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/img-aida.JPG"
+  avatar           : "img-aida.JPG"
   name             : "Aida Aminian"
   # pronouns         : # example: "she/her"  
   bio              : "Graduate Student at York University"
